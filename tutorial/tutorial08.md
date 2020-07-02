@@ -1,4 +1,4 @@
-## 8 - Part numbers
+## Part numbers
 
 * Part number information can be added to parts
   * Only provided fields will be added to the diagram and bom
